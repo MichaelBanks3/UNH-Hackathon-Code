@@ -11,3 +11,8 @@ __pycache__/
 
 # Secrets
 .env
+
+#html 
+.html
+
+
